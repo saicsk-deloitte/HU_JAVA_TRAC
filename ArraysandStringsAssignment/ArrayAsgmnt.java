@@ -1,7 +1,5 @@
 package ArraysandStringsAssignment;
-
 import java.util.Scanner;
-
 public class ArrayAsgmnt {
         public static void main (String []args){
             Scanner sc = new Scanner(System.in);
